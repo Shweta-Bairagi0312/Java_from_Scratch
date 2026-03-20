@@ -2,7 +2,7 @@ class Telusko //extends Object
 {
 	void course()
 	{
-		System.out.println("visit telusko.com");
+		System.out.println("visit hero");
 	}
 }
 class Alpha extends Telusko
@@ -24,7 +24,7 @@ class Beta extends Alpha   //--> Alpha Parent/Super/Base
       void show()
       {
     	  age=18;
-    	 // name="Telusko";
+    	
     	  System.out.println(age);
       }
 }
