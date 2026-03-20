@@ -47,12 +47,7 @@ public class LaunchDemo1
 		char cr='1';
 		
 		
-		//Naming Convention
 		
-//		class Name ===> TeluskoAlien  --> teluskoalien
-//		method name ==> camelcase --> main  --> mainMethod()  --> listTheAvg();   
-//		variables ==> averageOfMarks --> avg --> marks --> salary  --> salaryOfEmployee
-//				  ==> average_of_marks  --> salary_of_employee
 		
 		
 		
